@@ -1,4 +1,3 @@
-# Main
 <a>
     <img alt="Banner" src="https://github.com/hayfidev/hayfii/blob/main/banner.png">
 </a>
@@ -9,7 +8,10 @@
     <img alt="Sub-banner" src="https://github.com/hayfidev/hayfii/blob/main/discordserver.png">
 </a>
 
-# Contact Me
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,vscode" />
+</p>
+
 <p align="center">
     <a href="mailto:hayfilol@pissmail.com">
         <img alt="Mail" src="https://github.com/hayfidev/hayfii/blob/main/mail.png">
