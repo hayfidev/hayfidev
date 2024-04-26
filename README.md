@@ -8,9 +8,7 @@
     <img alt="Sub-banner" src="https://github.com/hayfidev/hayfii/blob/main/discordserver.png">
 </a>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,vscode" />
-</p>
+&nbsp
 
 <p align="center">
     <a href="mailto:hayfilol@pissmail.com">
