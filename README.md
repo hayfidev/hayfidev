@@ -1,8 +1,12 @@
-![Banner](https://github.com/hayfidev/hayfii/blob/main/banner.png)
+<a>
+    <img alt="Banner" src="https://github.com/hayfidev/hayfii/blob/main/banner.png">
+</a>
 
 # Contact Me
-[![Sub-banner](https://github.com/hayfidev/hayfii/blob/main/subbanner.png)](https://dsc.gg/hayfi)
 <p align="center">
+    <a href="https://dsc.gg/hayfi">
+        <img alt="Sub-banner" src="https://github.com/hayfidev/hayfii/blob/main/subbanner.png">
+    </a>
     <a href="mailto:hayfilol@pissmail.com">
         <img alt="Mail" src="https://github.com/hayfidev/hayfii/blob/main/mail.png">
     </a>
