@@ -1,12 +1,7 @@
 ![Banner](https://github.com/hayfidev/hayfii/blob/main/banner.png)
 
-
-
-
-
-[![Sub-banner](https://github.com/hayfidev/hayfii/blob/main/subbanner.png)](https://dsc.gg/hayfi)
-
 # Contact Me
+[![Sub-banner](https://github.com/hayfidev/hayfii/blob/main/subbanner.png)](https://dsc.gg/hayfi)
 <p align="center">
     <a href="mailto:hayfilol@pissmail.com">
         <img alt="Mail" src="https://github.com/hayfidev/hayfii/blob/main/mail.png">
