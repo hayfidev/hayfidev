@@ -2,4 +2,4 @@
 [![Sub-banner](https://github.com/hayfidev/hayfii/blob/main/subbanner.png)](https://dsc.gg/hayfi)
 
 # Contact Me
-[![Discord](https://github.com/hayfidev/hayfii/blob/main/discord.png)](https://discord.com/users/800285222385614848) [![Discord](https://github.com/hayfidev/hayfii/blob/main/discord.png)](https://discord.com/users/800285222385614848)
+[![Mail](https://github.com/hayfidev/hayfii/blob/main/mail.png)](https://discord.com/users/800285222385614848) [![Discord](https://github.com/hayfidev/hayfii/blob/main/discord.png)](https://discord.com/users/800285222385614848)
