@@ -1,3 +1,1 @@
-### Hi there 👋
-
-- 😄 Pronouns: He/Him/His
+![Banner](https://github.com/hayfidev/hayfii/blob/main/banner.png)
