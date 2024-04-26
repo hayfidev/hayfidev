@@ -10,13 +10,11 @@
 </a>
 
 # Contact Me
-<div>
-    <p align="center">
-        <a href="mailto:hayfilol@pissmail.com">
-            <img alt="Mail" src="https://github.com/hayfidev/hayfii/blob/main/mail.png">
-        </a>
-        <a href="https://twitter.com/hayfiexperience">
-            <img alt="X" src="https://github.com/hayfidev/hayfii/blob/main/x.png">
-        </a>
-    </p>
-</div>
+<p align="center">
+    <a href="mailto:hayfilol@pissmail.com">
+        <img alt="Mail" src="https://github.com/hayfidev/hayfii/blob/main/mail.png">
+    </a>
+    <a href="https://twitter.com/hayfiexperience">
+        <img alt="X" src="https://github.com/hayfidev/hayfii/blob/main/x.png">
+    </a>
+</p>
