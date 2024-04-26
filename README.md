@@ -13,7 +13,7 @@
 <div>
     <p align="center">
         <a href="mailto:hayfilol@pissmail.com">
-            <img alt="Mail" src="https://github.com/hayfidev/hayfii/blob/main/mail.png">
+            <img alt="Mail" src="https://github.com/hayfidev/hayfii/blob/main/mail.png", width="181", height="138">
         </a>
         <a href="https://twitter.com/hayfiexperience">
             <img alt="X" src="https://github.com/hayfidev/hayfii/blob/main/x.png">
