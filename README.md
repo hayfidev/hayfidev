@@ -8,10 +8,6 @@
     .hover {
         display: none;
     }
-    
-    .normal:hover + .hide {
-        display: block;
-    }
 </style>
 <a href="https://dsc.gg/hayfi">
     <img class="normal" alt="Server" src="https://github.com/hayfidev/hayfii/blob/main/discordserver.png">
